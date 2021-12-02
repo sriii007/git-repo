@@ -1,0 +1,1 @@
+This is 3rd file opened from git bash.Bash from git.
